@@ -9,3 +9,13 @@
 	shallow = true
 	subdir = fields
 	registered = true
+[submodule "LatticeKrig"]
+	path = LatticeKrig
+	url = https://github.com/cran/LatticeKrig
+	shallow = true
+	registered = true
+[submodule "RadioSonde"]
+	path = RadioSonde
+	url = https://github.com/cran/RadioSonde
+	shallow = true
+	registered = true
