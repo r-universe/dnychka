@@ -2,13 +2,13 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "fields"]
-	path = fields
-	url = https://github.com/dnychka/fieldsrpackage
-	subdir = fields
 [submodule "LatticeKrig"]
 	path = LatticeKrig
 	url = https://github.com/cran/LatticeKrig
 [submodule "RadioSonde"]
 	path = RadioSonde
 	url = https://github.com/cran/RadioSonde
+[submodule "fields"]
+	path = fields
+	url = https://github.com/dnychka/fieldsrpackage
+	subdir = fields
